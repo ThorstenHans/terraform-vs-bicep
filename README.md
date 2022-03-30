@@ -29,4 +29,4 @@ Both projects come with dedicated DevContainer
 
 ## Authentication with Azure
 
-Because both projects are designed to work independently you have to login explicitly in each DevContainer using `az login --use-device-code'
+Because both projects are designed to work independently you have to login explicitly in each DevContainer using `az login --use-device-code`
